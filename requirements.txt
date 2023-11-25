@@ -4,4 +4,4 @@ streamlit
 numpy
 tensorflow
 os
-from PIL import Image
+PIL
