@@ -1,3 +1,7 @@
 altair
 pandas
 streamlit
+numpy
+tensorflow
+os
+from PIL import Image
