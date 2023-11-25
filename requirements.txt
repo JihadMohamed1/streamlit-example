@@ -4,4 +4,3 @@ streamlit
 numpy
 tensorflow
 os
-PIL
