@@ -1,6 +1,5 @@
-altair
 pandas
 streamlit
 numpy
 tensorflow
-os
+
