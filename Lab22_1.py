@@ -13,7 +13,7 @@ input_details = interpreter.get_input_details()
 output_details = interpreter.get_output_details()
 
 # Deploy with Streamlit:
-st.header('Fruit & Vegetables Word')
+st.header('Fruit & Vegetables Classification')
 uploaded_images = st.file_uploader("Select a folder of images", type=["jpg", "jpeg", "png"], accept_multiple_files=True)
 
 def predict_img(img):
